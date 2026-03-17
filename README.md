@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Semantic Search Engine for MongoDB Documents
 
 ## 📌 Project Overview
@@ -147,3 +148,6 @@ J Monika
 - MongoDB Atlas  
 - FastAPI  
 - React
+=======
+# semantic-search-engine
+>>>>>>> c87b5609fb9931f0679042a7312406f45e9b6345
